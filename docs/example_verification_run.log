@@ -1,0 +1,75 @@
+Example run of scripts/verify_msc_download.py against the real, local 54-movie
+MSC dataset (2026-09-27). Local filesystem paths below are redacted to
+<videos_dir>/<report_path> -- everything else is the script's actual,
+unedited output.
+
+$ python3 scripts/verify_msc_download.py --videos-dir <videos_dir> --report-out <report_path>
+
+MSC ID     Status Movie                                         Reason
+----------------------------------------------------------------------------------------------------
+MSC_1029   PASS   12 Monkeys                                    sha256 exact match
+MSC_0005   PASS   12 Years a Slave                              sha256 exact match
+MSC_0072   PASS   Apocalypse Now                                sha256 exact match
+MSC_0100   PASS   Batman Returns                                sha256 exact match
+MSC_0123   PASS   Body Heat                                     sha256 exact match
+MSC_0131   PASS   Braveheart                                    sha256 exact match
+MSC_0137   PASS   Broken Arrow                                  sha256 exact match
+MSC_0178   PASS   Commando                                      sha256 exact match
+MSC_0186   PASS   Crank                                         sha256 exact match
+MSC_1073   PASS   Crouching Tiger, Hidden Dragon                sha256 exact match
+MSC_0192   PASS   Cube                                          sha256 exact match
+MSC_0268   PASS   Fargo                                         sha256 exact match
+MSC_0274   PASS   Fight Club                                    sha256 exact match
+MSC_0307   PASS   Gangs of New York                             sha256 exact match
+MSC_0328   PASS   Gran Torino                                   sha256 exact match
+MSC_0348   PASS   He's Just Not That Into You                   sha256 exact match
+MSC_0349   PASS   Heat                                          sha256 exact match
+MSC_0386   PASS   Inception                                     sha256 exact match
+MSC_0393   PASS   Inglourious Basterds                          sha256 exact match
+MSC_0414   PASS   Jaws                                          sha256 exact match
+MSC_0429   PASS   Jurassic Park                                 sha256 exact match
+MSC_0430   PASS   Jurassic Park III                             sha256 exact match
+MSC_0453   PASS   L.A. Confidential                             sha256 exact match
+MSC_0468   PASS   Les Misérables                                sha256 exact match
+MSC_0478   PASS   Lincoln                                       sha256 exact match
+MSC_0508   PASS   Marley & Me                                   sha256 exact match
+MSC_0538   PASS   Mission: Impossible                           sha256 exact match
+MSC_0552   PASS   Mr. Brooks                                    sha256 exact match
+MSC_0560   PASS   Mute Witness                                  sha256 exact match
+MSC_0629   PASS   Planet of the Apes                            sha256 exact match
+MSC_0640   PASS   Pretty Woman                                  sha256 exact match
+MSC_0677   PASS   Ring                                          sha256 exact match
+MSC_0707   PASS   Serenity                                      sha256 exact match
+MSC_0734   PASS   Source Code                                   sha256 exact match
+MSC_0799   PASS   The Best Exotic Marigold Hotel                sha256 exact match
+MSC_0800   PASS   The Big Lebowski                              sha256 exact match
+MSC_0809   PASS   The Bodyguard                                 sha256 exact match
+MSC_0813   PASS   The Bounty Hunter                             sha256 exact match
+MSC_0817   PASS   The Bourne Ultimatum                          sha256 exact match
+MSC_0829   PASS   The Cider House Rules                         sha256 exact match
+MSC_0854   PASS   The Fault in Our Stars                        sha256 exact match
+MSC_0864   PASS   The Godfather                                 sha256 exact match
+MSC_0872   PASS   The Green Mile                                sha256 exact match
+MSC_0874   PASS   The Hangover                                  sha256 exact match
+MSC_0897   PASS   The Island                                    sha256 exact match
+MSC_0936   PASS   The Pianist                                   sha256 exact match
+MSC_0948   PASS   The Reader                                    sha256 exact match
+MSC_0974   PASS   The Terminator                                sha256 exact match
+MSC_0980   PASS   The Truman Show                               sha256 exact match
+MSC_1012   PASS   Top Gun                                       sha256 exact match
+MSC_1030   PASS   Twilight                                      sha256 exact match
+MSC_1032   PASS   Twins                                         sha256 exact match
+MSC_1047   PASS   Vertigo                                       sha256 exact match
+MSC_1068   PASS   Wild Things                                   sha256 exact match
+----------------------------------------------------------------------------------------------------
+TOTAL: 54 PASS, 0 FAIL, out of 54 movies
+Report written to <report_path>
+
+Additional checks performed during development (not shown above, re-run on
+request): the ffprobe fallback path was exercised by temporarily corrupting
+one movie's recorded checksum and confirming it still PASSes via the
+frame-count/fps comparison ("checksum differs (different encode), but
+ffprobe matches within tolerance"); the missing-file path was exercised by
+pointing --videos-dir at a folder containing only one of the 54 movies,
+confirming the other 53 correctly report FAIL ("file not found in
+--videos-dir") and the process exits with a non-zero status code.

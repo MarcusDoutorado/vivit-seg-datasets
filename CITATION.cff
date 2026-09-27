@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use MSC (MovieScenes Curated), please cite this repository and the papers listed below."
+title: "MSC: MovieScenes Curated — verified groundtruth and curation metadata for movie scene segmentation"
+type: dataset
+authors:
+  - family-names: "Doutorado"
+    given-names: "Marcus"
+repository-code: "https://github.com/MarcusDoutorado/vivit-seg-datasets"
+license: "MIT AND CC-BY-4.0"
+preferred-citation:
+  type: article
+  title: "TODO: fill in once the associated MTAP paper is published"
+  authors:
+    - family-names: "Doutorado"
+      given-names: "Marcus"
+references:
+  - type: conference-paper
+    title: "A Local-to-Global Approach to Multi-modal Movie Scene Segmentation"
+    authors:
+      - family-names: "Rao"
+        given-names: "Anyi"
+    year: 2020
+    conference:
+      name: "CVPR"
+  - type: conference-paper
+    title: "MovieNet: A Holistic Dataset for Movie Understanding"
+    authors:
+      - family-names: "Huang"
+        given-names: "Qingqiu"
+    year: 2020
+    conference:
+      name: "ECCV"

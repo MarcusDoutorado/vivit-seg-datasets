@@ -1,0 +1,69 @@
+msc_id,frames_start,frames_end,gt_scenes_ok,gt_shots_ok,use_video,notes
+msc_0005,+3,-1,ok,ok,TRUE,
+msc_0032,,,no,no,FALSE,no correspondence with GT
+msc_0072,+2,0,ok,ok,TRUE,
+msc_0100,+5,+7,ok,ok,TRUE,
+msc_0110,+2,+5,ok?,ok,FALSE,remove frame 58656; possibly OK
+msc_0123,+2,+2,ok,ok,TRUE,
+msc_0131,+4,0,ok,ok,TRUE,
+msc_0137,+3,-2,ok,ok,TRUE,
+msc_0178,+4,0,ok,ok,TRUE,
+msc_0186,+3,+2,ok,ok,TRUE,
+msc_0192,+2,0,ok,ok,TRUE,
+msc_0212,+2,0,ok,ok,FALSE,scene=184; shot=2389; frame=167286 to 177513; should end at 177457
+msc_0268,-116,+44,ok,ok,TRUE,
+msc_0274,+2,+2,ok,ok,TRUE,
+msc_0307,+3,+3,ok,ok,TRUE,
+msc_0322,-21,-25,ok?,ok,FALSE,slight frame variation in GT scenes; possibly OK; scene 85 shows a differing frame count
+msc_0328,+4,+140,ok,ok,TRUE,
+msc_0348,+4,+2,ok,ok,TRUE,
+msc_0349,-1,+4,ok,ok,TRUE,
+msc_0386,+2,+2,ok,ok,TRUE,
+msc_0393,+3,+177,ok,ok,TRUE,
+msc_0414,+2,-154,ok,ok,TRUE,
+msc_0429,-52,+86,ok,ok,TRUE,
+msc_0430,+5,+1,ok,ok,TRUE,
+msc_0453,+1,-6354,ok,ok,TRUE,
+msc_0468,+4,-4,ok,ok,TRUE,
+msc_0478,+3,+3,ok,ok,TRUE,
+msc_0487,,,no,no,FALSE,no correspondence with GT
+msc_0508,+3,-1,ok,ok,TRUE,
+msc_0538,+4,0,ok,ok,TRUE,
+msc_0552,+4,+3,ok,ok,TRUE,
+msc_0560,+325,-146,,ok,TRUE,
+msc_0629,+2,+2,ok,ok,TRUE,
+msc_0640,+3,0,ok,ok,TRUE,
+msc_0677,+2,+3,ok,ok,TRUE,
+msc_0707,+2,-7240,ok,ok,TRUE,
+msc_0734,+3,+2,ok,ok,TRUE,
+msc_0753,,,no,no,FALSE,no correspondence with GT
+msc_0754,,,no,no,FALSE,no correspondence with GT
+msc_0778,,,no,no,FALSE,no correspondence with GT
+msc_0799,+3,+1,ok,ok,TRUE,
+msc_0800,+4,-4,ok,ok,TRUE,
+msc_0809,+5,+25,ok,ok,TRUE,
+msc_0813,+3,-1,ok,ok,TRUE,
+msc_0817,+5,-3,ok,ok,TRUE,
+msc_0829,+2,0,ok,ok,TRUE,
+msc_0854,+4,-555,ok,ok,TRUE,
+msc_0864,+3,+2,ok,ok,TRUE,
+msc_0872,+4,+1,ok,ok,TRUE,
+msc_0874,+3,+4,ok,ok,TRUE,
+msc_0897,-108,+6,ok,ok,TRUE,
+msc_0936,+648,+470,ok,ok,TRUE,
+msc_0948,+3,+3,ok,ok,TRUE,
+msc_0974,+218,+27,ok,ok,TRUE,
+msc_0980,+2,+10,ok,ok,TRUE,
+msc_1012,+3,-2,ok,ok,TRUE,
+msc_1026,+65,+693,ok?,ok,FALSE,check with video B; with video A the frame offset keeps increasing over the course of the video
+msc_1029,+3,+1,ok,ok,TRUE,
+msc_1030,+4,0,ok,ok,TRUE,
+msc_1032,+2,+29,ok,ok,TRUE,
+msc_1047,+2,+2,ok,ok,TRUE,
+msc_1058,+6,+27277,no,no,FALSE,desynchronized; several shot changes not reflected in the annotation
+msc_1068,+3,-1,ok,ok,TRUE,
+msc_1073,-307,+1,ok,ok,TRUE,
+
+,,,,,TOTAL_use_video_TRUE,54
+,,,,,TOTAL_use_video_FALSE,10
+,,,,,TOTAL_movies,64

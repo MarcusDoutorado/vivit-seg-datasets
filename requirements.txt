@@ -1,0 +1,23 @@
+# Python 3.10+ (developed/tested on 3.12).
+#
+# Dependencies for scripts/ (reproducing the MSC feature pipeline). This is
+# scoped to just what those scripts import -- NOT the much larger,
+# training-focused requirements.txt of the companion model repository
+# (vivit-seg).
+#
+# System dependency (not installable via pip): ffmpeg and ffprobe binaries
+# on PATH, used via subprocess by 01_generate_shots.py, 04_extract_audio_features.py,
+# and internally by openai-whisper.
+
+pandas
+numpy
+torch
+torchvision
+transformers
+accelerate
+opencv-python
+av
+librosa
+sentence-transformers
+openai-whisper
+tqdm
