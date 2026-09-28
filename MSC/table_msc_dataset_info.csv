@@ -1,7 +1,7 @@
 imdb,movie,scenes,shots,frames,duration,bbfc_version,note
 tt0114746,12 Monkeys,145,1302,186312,02:09:23,"Cinema, 2015",
 tt2024544,12 Years a Slave,117,728,192840,02:13:55,"Cinema, 2013",
-tt0078788,Apocalypse Now,106,1589,290880,03:22:00,"HE, 2001",*
+tt0078788,Apocalypse Now,106,1589,279768,03:14:17,"Redux, HE, 2002",*
 tt0103776,Batman Returns,109,1779,181872,02:06:18,"Cinema, 2019",
 tt0082089,Body Heat,93,607,162768,01:53:02,"Cinema, 1981",
 tt0112573,Braveheart,159,3096,255672,02:57:33,"Cinema, 1995",
@@ -53,4 +53,4 @@ tt1099212,Twilight,151,1764,175248,02:01:42,"Cinema, 2008",
 tt0096320,Twins,114,1138,154296,01:47:09,"Cinema, 1988",
 tt0052357,Vertigo,94,1101,184896,02:08:24,"Cinema, 2012",
 tt0120890,Wild Things,113,1151,165408,01:54:52,"HE, 2023",
-,Total (54 videos),6920,86593,9771600,113:05:50,,
+,Total (54 videos),6920,86593,9760488,112:58:07,,
