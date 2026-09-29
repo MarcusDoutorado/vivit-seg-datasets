@@ -1,0 +1,22 @@
+{
+  "title": "MSC: MovieScenes Curated — verified groundtruth and curation metadata for movie scene segmentation",
+  "description": "<p>Groundtruth annotations, dataset-curation metadata, and per-movie verification material for MSC (MovieScenes Curated), a verified 54-movie subset of the MovieScenes 64-movie test split used for multimodal movie scene segmentation.</p><p>Contents: verified shot/scene boundary annotations (<code>shots_trust.csv</code> / <code>scenes_trust.csv</code>), the excluded-video log with per-movie groundtruth issues (<code>excluded_videos.csv</code>), structured per-movie metadata including the specific BBFC-classified commercial release each movie's frame count corresponds to (<code>msc_manifest.csv</code> / <code>msc_manifest.json</code>), a download guide with reference SHA-256 checksums (<code>docs/download_guide.md</code>), low-resolution verification frames, and the scripts used to build and verify the dataset. Source videos themselves are not redistributed (copyright); see <code>docs/download_guide.md</code> for how to source and verify a compatible copy of each movie.</p><p>Code (scripts) is released under MIT; annotation and metadata files are released under CC BY 4.0 -- see <code>LICENSE</code> and <code>LICENSE-DATA</code>.</p><p>Companion model code: <a href=\"https://github.com/Wan-Song/vivit-seg\">vivit-seg</a> (private at time of archival).</p>",
+  "creators": [
+    {
+      "name": "Doutorado, Marcus",
+      "affiliation": "ICMC, Universidade de São Paulo"
+    }
+  ],
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "movie scene segmentation",
+    "video understanding",
+    "multimodal",
+    "MovieNet",
+    "MovieScenes",
+    "dataset curation",
+    "groundtruth verification"
+  ]
+}
