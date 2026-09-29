@@ -1,5 +1,7 @@
 # vivit-seg-datasets
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23037804.svg)](https://doi.org/10.5281/zenodo.23037804)
+
 Groundtruth annotations, dataset-curation metadata, and per-movie verification material for **MSC** (MovieScenes Curated), the verified movie-scene-segmentation benchmark used in our multimodal scene segmentation work. Model code lives in the companion repository, [vivit-seg](https://github.com/Wan-Song/vivit-seg) — this repository contains only the data-side artifacts, which don't belong in the model codebase.
 
 We do **not** redistribute the source videos themselves (copyright). What's here is annotation (shot/scene boundaries as frame indices, movie identifiers, verification notes) plus a small number of low-resolution sample frames used strictly to help someone who has independently sourced a movie confirm they have a release that matches our shot/scene boundaries.

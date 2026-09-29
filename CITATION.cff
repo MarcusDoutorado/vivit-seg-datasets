@@ -9,6 +9,15 @@ repository-code: "https://github.com/MarcusDoutorado/vivit-seg-datasets"
 license:
   - "MIT"
   - "CC-BY-4.0"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23037805"
+    description: "This version (v1.0.1) of the dataset."
+  - type: doi
+    value: "10.5281/zenodo.23037804"
+    description: "The concept DOI, which always resolves to the latest version."
+version: "v1.0.1"
+date-released: "2026-09-29"
 preferred-citation:
   type: article
   title: "TODO: fill in once the associated MTAP paper is published"
