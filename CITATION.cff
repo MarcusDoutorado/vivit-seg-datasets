@@ -6,7 +6,9 @@ authors:
   - family-names: "Doutorado"
     given-names: "Marcus"
 repository-code: "https://github.com/MarcusDoutorado/vivit-seg-datasets"
-license: "MIT AND CC-BY-4.0"
+license:
+  - "MIT"
+  - "CC-BY-4.0"
 preferred-citation:
   type: article
   title: "TODO: fill in once the associated MTAP paper is published"
