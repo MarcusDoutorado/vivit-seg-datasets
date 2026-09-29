@@ -17,7 +17,7 @@ assuming alignment with `shots_trust.csv`/`scenes_trust.csv`.
 |---|---|---|---|---|
 | 12 Monkeys | tt0114746 | Cinema, 2015 | `Twelve_Monkeys_1995.mp4` | `cbec2245f32594f15dd1c8f66b0f1ef7c1cab7eccc7a25ceb9f354cf1f8c3c04` |
 | 12 Years a Slave | tt2024544 | Cinema, 2013 | `12_Years_a_Slave_2013.mp4` | `21cd851a76a8b8686b8b632e4b2de86918238cc9f68e5436c6e5131f16804a96` |
-| Apocalypse Now | tt0078788 | HE, 2001 | `Apocalypse_Now_1979.mp4` | `ce3158939c0ef17d12ad4c38344db8a1604cf62b8c2960ae25387d54c91b712e` |
+| Apocalypse Now | tt0078788 | Redux, HE, 2002 | `Apocalypse_Now_1979.mp4` | `ce3158939c0ef17d12ad4c38344db8a1604cf62b8c2960ae25387d54c91b712e` |
 | Batman Returns | tt0103776 | Cinema, 2019 | `Batman_Returns_1992.mp4` | `3f9293ad21e26012bcd4e3ac395a81f38e90feab4fdbe2774d199f0b13f7ec8d` |
 | Body Heat | tt0082089 | Cinema, 1981 | `Body_Heat_1981.mp4` | `a08e53b3abf12158738f6befe67df6253e8cff5895ce5a19e324315bdc17c283` |
 | Braveheart | tt0112573 | Cinema, 1995 | `Braveheart_1995.mp4` | `514458e689fcc0e7c9879be446567722832454f35d6fb08b25ebb364329876ec` |
@@ -37,7 +37,7 @@ assuming alignment with `shots_trust.csv`/`scenes_trust.csv`.
 | Jaws | tt0073195 | Cinema, 2022 | `Jaws_1975.mp4` | `d6d4e3bad48ff5aa881755db000140da7721392346f0fdc09294db5737be016e` |
 | Jurassic Park | tt0107290 | Cinema, 1993 | `Jurassic_Park_1993.mp4` | `4d2373da68ff78180527de68d964ae6a00627d01173db46b863200454122d8d0` |
 | Jurassic Park III | tt0163025 | Cinema, 2001 | `Jurassic_Park_III_2001.mp4` | `73b94fcec3f5c14f4035b91097ac32405128e5ccee9dac4bb4d50c8ec96ed4fb` |
-| L.A. Confidential | tt0119488 | Cinema, 1998 | `L_A_Confidential_1997.mkv` | `a857945d953e07d3d6e01fbb24fc9ed9017dd1d9930bf3c6be42006936d1b8a1` |
+| L.A. Confidential | tt0119488 | Cinema, 1997 | `L_A_Confidential_1997.mkv` | `a857945d953e07d3d6e01fbb24fc9ed9017dd1d9930bf3c6be42006936d1b8a1` |
 | Les Misérables | tt1707386 | Cinema, 2012 | `Les_Miserables_2012.mp4` | `4ba7418037a1b52cd4959c8fb41de936c588a2ebdfe32f86cd02b7e8ff336f4f` |
 | Lincoln | tt0443272 | Cinema, 2012 | `Lincoln_2012.mp4` | `65fc8bbd01b7696d6864b5ffed3af700746ad217b2644dcc64a3143ed968ac30` |
 | Marley & Me | tt0822832 | Cinema, 2008 | `Marley_and_Me_2008.mp4` | `1fd76143896032175828754350aeaa4dd470b6602335ab1d4db72eee314fdbfb` |
