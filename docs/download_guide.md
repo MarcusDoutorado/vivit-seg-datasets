@@ -57,7 +57,7 @@ assuming alignment with `shots_trust.csv`/`scenes_trust.csv`.
 | The Cider House Rules | tt0124315 | Cinema, 2000 | `The_Cider_House_Rules_1999.mp4` | `2b28a8bcb37d8ac1b6cb70384c149ca43c7bfd8f5f8abec793e1f77390bb2eef` |
 | The Fault in Our Stars | tt2582846 | Cinema, 2014 | `The_Fault_in_Our_Stars_2014.mp4` | `c4a63865eb9c216e8642de96ede5382270873474ab9508689c672a3c32aa16d8` |
 | The Godfather | tt0068646 | Cinema, 1996 | `The_Godfather_1972.mp4` | `50d25dd77450b48fb6ed1844e4d4db2fb8d12cd75ddac6714c779f4262dfb470` |
-| The Green Mile | tt0120689 | Other, 2014 | `The_Green_Mile_1999.mp4` | `5954c155bb444513d66dc7d3b5bfe05fc3b072b723d6910e6d7322e7eb0e6ca0` |
+| The Green Mile | tt0120689 | Cinema, 2000 | `The_Green_Mile_1999.mp4` | `5954c155bb444513d66dc7d3b5bfe05fc3b072b723d6910e6d7322e7eb0e6ca0` |
 | The Hangover | tt1119646 | Cinema, 2009 | `The_Hangover_2009.mp4` | `716d8a4b99fa607f9062ff125c5d6bcaaf2a1d3a8c0b820b69e6cd18ed79ddfd` |
 | The Island | tt0399201 | Cinema, 2005 | `The_Island_2005.mp4` | `4919c58cbcfc2135f6291bb34a41abf11c520ef5b236465b76d0bfe4b08af884` |
 | The Pianist | tt0253474 | Cinema, 2002 | `The_Pianist_2002.mp4` | `1f594e3252c08d47cfce877eec2eca09dff7bc3a3d4ecaa93b0437eb0c450098` |
