@@ -28,13 +28,13 @@ assuming alignment with `shots_trust.csv`/`scenes_trust.csv`.
 | Cube | tt0123755 | Cinema, 1998 | `Cube_1997.mp4` | `f011a8b7471dd0646fd1e19d5e52275abe046a0a36f57130d5994fa07ccf4d38` |
 | Fargo | tt0116282 | Cinema, 1996 | `Fargo_1996.mkv` | `61d1d4c124d7c23f289c02c078006de53632596167aa599e44f46bfbce78e6dc` |
 | Fight Club | tt0137523 | Cinema, 2014 | `Fight_Club_1999.mp4` | `70e5649559dde29edce8b48ee4fa73ca81e1b00eed9dcda5619840ccb838365d` |
-| Gangs of New York | tt0217505 | Cinema, 2023 | `Gangs_of_New_York_2002.mp4` | `ed37e225e6e4d3dcab6376263a021aedfa540e2f2df0756c4a9aa6b45b39435f` |
+| Gangs of New York | tt0217505 | Cinema, 2002 | `Gangs_of_New_York_2002.mp4` | `ed37e225e6e4d3dcab6376263a021aedfa540e2f2df0756c4a9aa6b45b39435f` |
 | Gran Torino | tt1205489 | Cinema, 2008 | `Gran_Torino_2008.mp4` | `f7764345636b2896635c904445846cc3410262ca8bbc74c9035a021a79bc13c4` |
 | He's Just Not That Into You | tt1001508 | Cinema, 2009 | `Hes_Just_Not_That_Into_You_2009.mp4` | `139b24d507cd3fd14411291a2fed493e1da8cb1b66c6f64439ce239173890283` |
 | Heat | tt0113277 | Other, 2016 | `Heat_1995.mkv` | `f4cd47dfc69f70474ca7c581c339cc7bdbb9c08232c5199a13198d8a851d3ab2` |
 | Inception | tt1375666 | Cinema, 2010 | `Inception_2010.mkv` | `df96895ef607efcc3ef780da4c00a86929720659eaabbd442c36f02dc40562f1` |
 | Inglourious Basterds | tt0361748 | Cinema, 2009 | `Inglourious_Basterds_2009.mp4` | `de2250510a0c0ea01cb5397ff0309639b5b077d56c4999fd4ff7c488b76cf19b` |
-| Jaws | tt0073195 | Cinema, 2022 | `Jaws_1975.mp4` | `d6d4e3bad48ff5aa881755db000140da7721392346f0fdc09294db5737be016e` |
+| Jaws | tt0073195 | Cinema, 1975 | `Jaws_1975.mp4` | `d6d4e3bad48ff5aa881755db000140da7721392346f0fdc09294db5737be016e` |
 | Jurassic Park | tt0107290 | Cinema, 1993 | `Jurassic_Park_1993.mp4` | `4d2373da68ff78180527de68d964ae6a00627d01173db46b863200454122d8d0` |
 | Jurassic Park III | tt0163025 | Cinema, 2001 | `Jurassic_Park_III_2001.mp4` | `73b94fcec3f5c14f4035b91097ac32405128e5ccee9dac4bb4d50c8ec96ed4fb` |
 | L.A. Confidential | tt0119488 | Cinema, 1997 | `L_A_Confidential_1997.mkv` | `a857945d953e07d3d6e01fbb24fc9ed9017dd1d9930bf3c6be42006936d1b8a1` |
@@ -55,17 +55,17 @@ assuming alignment with `shots_trust.csv`/`scenes_trust.csv`.
 | The Bounty Hunter | tt1038919 | Cinema, 2010 | `The_Bounty_Hunter_2010.mp4` | `0dbbcf9bf893809a02030aa650d961d6550ad081a1df81ddf2efcf0977556689` |
 | The Bourne Ultimatum | tt0440963 | Cinema, 2007 | `The_Bourne_Ultimatum_2007.mp4` | `76e1ec0e5ed7b66df6732e29566dd4372139b3f0979b9ce739034553539a7e5e` |
 | The Cider House Rules | tt0124315 | Cinema, 2000 | `The_Cider_House_Rules_1999.mp4` | `2b28a8bcb37d8ac1b6cb70384c149ca43c7bfd8f5f8abec793e1f77390bb2eef` |
-| The Fault in Our Stars | tt2582846 | Other, 2014 | `The_Fault_in_Our_Stars_2014.mp4` | `c4a63865eb9c216e8642de96ede5382270873474ab9508689c672a3c32aa16d8` |
+| The Fault in Our Stars | tt2582846 | Cinema, 2014 | `The_Fault_in_Our_Stars_2014.mp4` | `c4a63865eb9c216e8642de96ede5382270873474ab9508689c672a3c32aa16d8` |
 | The Godfather | tt0068646 | Cinema, 1996 | `The_Godfather_1972.mp4` | `50d25dd77450b48fb6ed1844e4d4db2fb8d12cd75ddac6714c779f4262dfb470` |
 | The Green Mile | tt0120689 | Other, 2014 | `The_Green_Mile_1999.mp4` | `5954c155bb444513d66dc7d3b5bfe05fc3b072b723d6910e6d7322e7eb0e6ca0` |
-| The Hangover | tt1119646 | HE, 2009 | `The_Hangover_2009.mp4` | `716d8a4b99fa607f9062ff125c5d6bcaaf2a1d3a8c0b820b69e6cd18ed79ddfd` |
+| The Hangover | tt1119646 | Cinema, 2009 | `The_Hangover_2009.mp4` | `716d8a4b99fa607f9062ff125c5d6bcaaf2a1d3a8c0b820b69e6cd18ed79ddfd` |
 | The Island | tt0399201 | Cinema, 2005 | `The_Island_2005.mp4` | `4919c58cbcfc2135f6291bb34a41abf11c520ef5b236465b76d0bfe4b08af884` |
 | The Pianist | tt0253474 | Cinema, 2002 | `The_Pianist_2002.mp4` | `1f594e3252c08d47cfce877eec2eca09dff7bc3a3d4ecaa93b0437eb0c450098` |
 | The Reader | tt0976051 | Cinema, 2008 | `The_Reader_2008.mp4` | `45ce7d76618a546114058e0db8a8f2d79cc97a9cd6417c4e561ddd92c12f2779` |
 | The Terminator | tt0088247 | Cinema, 1984 | `The_Terminator_1984.mp4` | `13c6819ea5af7735ce69c64b31fb314864b5fb9763423b3afb55776e2bf71069` |
 | The Truman Show | tt0120382 | Cinema, 1998 | `The_Truman_Show_1998.mkv` | `93116a08ab587f816ed37c0264832ca7d3d6a7e70cfd5051d1997a9dc18d2da6` |
-| Top Gun | tt0092099 | Cinema, 2026 | `Top_Gun_1986.mp4` | `d43d66fd8eaab2ea229de3dff78bdc46de683ba503929b58081882ffc44678da` |
+| Top Gun | tt0092099 | Cinema, 1989 | `Top_Gun_1986.mp4` | `d43d66fd8eaab2ea229de3dff78bdc46de683ba503929b58081882ffc44678da` |
 | Twilight | tt1099212 | Cinema, 2008 | `Twilight_Saga_2008.mp4` | `f5871785b1bc1dd8a037a1134161ca0529a264094eaf79358254e30327e6f252` |
 | Twins | tt0096320 | Cinema, 1988 | `Twins_1988.mp4` | `25e967429645b31bbf4272ab37dff514992a36afa9bc8f2b2e08256eabe2ad56` |
 | Vertigo | tt0052357 | Cinema, 2012 | `Vertigo_1958.mp4` | `6ac6a83041fcce28bca59d4c2b53590dacb124d21e6cd31485da9526bde4c6a4` |
-| Wild Things | tt0120890 | HE, 2023 | `Wild_Things_1998.mp4` | `eb84edb26e40907bb11e196d1804414b9d7e697d38210822061f5470553400cf` |
+| Wild Things | tt0120890 | HE, 2004 | `Wild_Things_1998.mp4` | `eb84edb26e40907bb11e196d1804414b9d7e697d38210822061f5470553400cf` |
